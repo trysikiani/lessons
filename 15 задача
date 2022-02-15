@@ -32,17 +32,3 @@ class Calculate {
                 "------+------+------+------+");
     }
 }
-
-
-
-        /*
-
-
-          for (int i = -99; i <= y; i++) {
-            if (Math.abs(i % 2) == 1 && i >= x && i <= y && x != y) {
-                System.out.print(i + " ");
-            } else {
-                a++;
-            }
-        }
-*/
